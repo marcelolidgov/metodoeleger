@@ -76,7 +76,7 @@ Siga se quer ocupar espaço com estratégia e ética.
 
 ### 3.3 Nome de exibição e foto
 
-- **Nome:** `Marcelão | Método Eleger` (busca pelo nome + marca)
+- **Nome:** `Marcelo Schlenert | Eleger` (nome completo para busca e confiança; "Marcelão" fica na bio)
 - **Foto:** rosto do Marcelão, sorrindo ou em postura firme, luz natural, fundo da marca (azul-noite). O monograma "ME" fica no avatar só se não houver foto. Foto humana converte mais seguidor que logo.
 
 ### 3.4 Capa do perfil (banner)
@@ -261,7 +261,7 @@ Ritmo de 3 posts em sequência: **rosto → método → história → rosto → 
 ## 9. Aplicação visual (checklist para produzir)
 
 - [ ] Foto de perfil: rosto do Marcelão, luz natural, fundo azul-noite
-- [ ] Nome de exibição: `Marcelão | Método Eleger`
+- [ ] Nome de exibição: `Marcelo Schlenert | Eleger` (nome completo, para busca e confiança)
 - [ ] Bio (versão escolhida) com link para página de diagnóstico
 - [ ] 6 destaques com capas no mesmo estilo de traço
 - [ ] 3 posts fixados (Quem sou eu, 3 perguntas, Erro que faz perder)

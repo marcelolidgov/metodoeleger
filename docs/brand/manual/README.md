@@ -91,7 +91,7 @@ As fontes são carregadas do Google Fonts. Não há arquivos de fonte neste sist
 
 ## 8. Instagram
 
-- Nome de exibição: `Marcelão | Método Eleger`
+- Nome de exibição: `Marcelo Schlenert | Eleger` (nome completo, para busca e confiança)
 - Foto de perfil: rosto do Marcelão. Se não houver foto, o monograma "ME" em azul-noite com degraus dourados.
 - Bio (4 linhas): quem é, para quem e o que sente, prova curta, convite leve com link.
 - Destaques: Quem sou eu · Comece aqui · Eu também já me senti assim · Na rua · Dúvidas · Resultados.

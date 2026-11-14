@@ -165,7 +165,7 @@ Ferramenta sugerida: **Canva** (com marca salva: paleta, fontes, logo). Há cone
 ### 3.1 Dados do perfil
 
 - **@** `metodoeleger` (manter, já tem histórico)
-- **Nome de exibição:** `Marcelão | Método Eleger` ← o nome de pessoa aumenta confiança e busca. Substitui "Método ELEGER | Marketing Político".
+- **Nome de exibição:** `Marcelo Schlenert | Eleger`. Nome completo aumenta a confiança e faz o perfil aparecer na busca pelo nome. Substitui "Método ELEGER | Marketing Político". Confirme o limite de caracteres do campo no app.
 - **Categoria:** Consultor / Serviço de consultoria política (ou Educação, conforme o que a conta mostrar mais).
 - **Bio (até 150 caracteres):**
 
