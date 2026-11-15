@@ -54,3 +54,38 @@ Segue @pordentrodaurna pra descobrir o que acontece antes, durante e depois da u
 
 ## Conferir antes de publicar (post 2)
 - Definições são gerais. O regimento interno de cada Câmara pode ter regras próprias.
+
+---
+
+# Posts estáticos extras
+
+## 4. Expectativa x Realidade: primeiro dia de assessor (meme)
+Arquivo: `post4-expectativa-realidade.png`
+
+```
+Expectativa: "hoje eu mudo a cidade."
+Realidade: descobrir onde fica a sala certa e quem tem a chave. 😅
+
+Quem já foi assessor, estagiário ou funcionário novo na Câmara se reconhece aqui. Conta o seu perrengue nos comentários.
+
+Segue @pordentrodaurna pra mais bastidores da política, com humor. 🗳️
+
+#pordentrodaurna #vereador #politica #eleicoes #voto
+```
+
+## 5. Dica: 3 lugares pra acompanhar o vereador da sua cidade
+Arquivo: `post5-dica-acompanhar-vereador.png`
+
+```
+Quer saber o que o vereador da sua cidade está fazendo de verdade? Três lugares ajudam:
+
+1. Site da Câmara: pautas, projetos e atas das sessões
+2. Portal da transparência: gastos e dados públicos
+3. As próprias sessões: presenciais ou transmitidas online
+
+O que está disponível varia de cidade para cidade. Salva pra consultar e manda pra quem acompanha política com você.
+
+Segue @pordentrodaurna pra descobrir o que acontece por dentro da política. 👀
+
+#pordentrodaurna #vereador #politica #eleicoes #voto
+```
