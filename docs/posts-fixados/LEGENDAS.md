@@ -100,9 +100,7 @@ Legenda:
 ```
 A eleição de 2028 já começou. Não nas ruas, mas em quem se informa, acompanha o mandato e se organiza com antecedência. 🗳️
 
-A dica de hoje é pra quem pensa em ser candidato: filiação partidária e domicílio eleitoral precisam estar em dia até seis meses antes da eleição.
-
-Confira as datas exatas no calendário oficial do TSE.
+A dica de hoje é pra quem pensa em ser candidato: filiação partidária e domicílio eleitoral precisam estar em dia até seis meses antes da eleição, ou seja, em abril de 2028.
 
 Salva pra não esquecer e manda pra quem está pensando em entrar na política.
 
