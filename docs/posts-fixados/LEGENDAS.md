@@ -89,3 +89,28 @@ Segue @pordentrodaurna pra descobrir o que acontece por dentro da política. �
 
 #pordentrodaurna #vereador #politica #eleicoes #voto
 ```
+
+---
+
+## 6. A eleição de 2028 já começou (post só de texto)
+Arquivo: `post6-eleicao-2028-ja-comecou.png`
+Sem @, sem logo, cores neutras (fundo claro, texto ardósia, detalhe laranja).
+
+Legenda:
+```
+A eleição de 2028 já começou. Não nas ruas, mas em quem se informa, acompanha o mandato e se organiza com antecedência. 🗳️
+
+A dica de hoje é pra quem pensa em ser candidato: filiação partidária e domicílio eleitoral precisam estar em dia até seis meses antes da eleição.
+
+Confira as datas exatas no calendário oficial do TSE.
+
+Salva pra não esquecer e manda pra quem está pensando em entrar na política.
+
+Segue @pordentrodaurna pra acompanhar o caminho até 2028.
+
+#pordentrodaurna #vereador #politica #eleicoes #voto
+```
+
+Conferir antes de publicar:
+- A regra dos seis meses (filiação e domicílio) e a data exata do prazo no calendário eleitoral do TSE.
+- O post é informativo. Não promove nenhum nome, partido ou candidatura.
